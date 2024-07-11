@@ -1,7 +1,7 @@
 # Student_Record_Management_System
 # Overview
 This project is a Student Record Management System implemented using Linked List of Data Structure. It is used to track, store, and organize student records. It enables easy data management activities with full CRUD (Create, Read, Update, Delete) along with other functionalities (Sort, Save file...)
-# About
+# Main Menu
 Created a executable file named "student" from different modules like st_add.c, st_del.c, st_mod.c, st_pf.c,....etc.., when executed will display on the screen as below 
 
 ![Image](https://github.com/users/karravennela/projects/1/assets/168295304/36fda8c4-40ce-45eb-887f-b4ecd4c5f7a7)
