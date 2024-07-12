@@ -28,4 +28,13 @@ Created a executable file named "student" from different modules like st_add.c, 
 + Reverse: The Student Records are reversed
 + Data Validation
   - Implement form validation to ensure the accuracy and integrity of the entered student information.
+  
+fig.1
+![FIG 1](https://github.com/user-attachments/assets/94f9dd44-3d46-403a-af28-24a41d69712e)
+fig.2
+![FIG 2](https://github.com/user-attachments/assets/8f3dd2f5-743a-4ad4-ad66-80cda4aa677c)
+fig.3
+![FIG 3](https://github.com/user-attachments/assets/0474ef04-3055-4770-acd3-0569ff11dd0c)
+fig.4
+![FIG 4](https://github.com/user-attachments/assets/bbe57c75-c51f-49c8-8361-ad2a86e9eb30)
 
