@@ -1,0 +1,22 @@
+student:main.o st_add.o st_del.o st_mod.o st_pf.o st_rev.o st_save.o st_sort.o
+	cc main.o st_sort.o st_add.o st_del.o st_mod.o st_pf.o st_rev.o st_save.o -o student
+
+main.o:main.c
+	cc -c main.c
+st_sort.o:st_sort.c
+	cc -c st_sort.c
+st_add.o:st_add.c
+	cc -c st_add.c
+st_del.o:st_del.c
+	cc -c st_del.c
+st_mod.o:st_mod.c
+	cc -c st_mod.c
+st_pf.o:st_pf.c
+	cc -c st_pf.c
+st_rev.o:st_rev.c
+	cc -c st_rev.c
+st_save.o:st_save.c
+	cc -c st_save.c
+clear:
+	@echo "Cleaning up..."
+	@rm -v *.o
