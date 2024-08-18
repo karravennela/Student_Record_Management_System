@@ -4,7 +4,7 @@ This project Student Record Management System is implemented using Single Linked
 # Main Menu
 Created a executable file named "student" from different modules like st_add.c, st_del.c, st_mod.c, st_pf.c,....etc.., when executed will display the menu on the screen as below 
 
-![Image](https://github.com/users/karravennela/projects/1/assets/168295304/36fda8c4-40ce-45eb-887f-b4ecd4c5f7a7)
+![Image]([https://github.com/users/karravennela/projects/1/assets/168295304/36fda8c4-40ce-45eb-887f-b4ecd4c5f7a7](https://github.com/karravennela/Student_Record_Management_System/blob/main/student))
 # Features
 + CRUD
   - Create : Create or Add The Student Record
